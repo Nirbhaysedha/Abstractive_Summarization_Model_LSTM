@@ -3,7 +3,7 @@
 
 📌 Embarking on the realm of NLP, I've meticulously developed a model to distill lengthy text documents into concise, impactful summaries. From preprocessing to ROUGE evaluation, this project encompasses the entire spectrum.
 
-🔗 Delve into the intricate details and access the complete code on my [GitHub repository](https://github.com/YourUsername/YourRepository).
+🔗 Delve into the intricate details and access the complete code on my [GitHub repository](https://github.com/Nirbhaysedha/Abstractive_Summarization_Model_LSTM.git).
 
 📊 Witness firsthand the prowess of NLP as I unveil how attention and coverage mechanisms revolutionize the art of summarization. Bid farewell to redundancy, and say hello to meticulously crafted summaries! 📝✨
 
