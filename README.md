@@ -1,5 +1,5 @@
 
-🔍 **Introducing my latest endeavor:** "Abstractive Text Summarization through Sequence-to-Sequence Model with Attention and Coverage Mechanisms (LSTM)"! 📚🚀
+
 
 📌 Embarking on the realm of NLP, I've meticulously developed a model to distill lengthy text documents into concise, impactful summaries. From preprocessing to ROUGE evaluation, this project encompasses the entire spectrum.
 
@@ -9,7 +9,7 @@
 
 🌟 Let's connect and engage in a discourse about this captivating odyssey in the realm of Natural Language Processing. Eagerly anticipating your insights and feedback! 🗣️📬
 
-**#NLP #TextSummarization #ArtificialIntelligence #GitHub #ContinualLearning**
+
 
 
 
