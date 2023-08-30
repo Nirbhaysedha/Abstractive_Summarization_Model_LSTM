@@ -1,5 +1,4 @@
-# Abstractive Text Summarization using Sequence-to-Sequence Model with Attention and Coverage Mechanisms
-![Project Image](/Users/nirbhaysedha/Documents/Abstractive_Summary/IMG_2626.jpg)
+# Abstractive Text Summarization using Sequence-to-Sequence Model with Attention and Coverage Mechanisms ( LSTM )
 
 ## Overview
 
